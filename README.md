@@ -52,3 +52,8 @@ Pointers in C++ denote variables that hold the address of another variable in me
     
 ## Output:
 ![{2A8BBEAA-FCA5-41D6-80E4-787AE62B8A2F}](https://github.com/user-attachments/assets/9d142aa8-6c56-4ae5-93c1-074127813dcc)
+## Conclusion:
+1. We learnt about pointers in C++.
+
+2. We learnt the use case of pointers in C++.
+
